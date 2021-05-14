@@ -6,5 +6,5 @@ The Huber loss function can be used to balance between the **Mean Absolute Error
 #### Formular
 
 <p align="center">
-    <img src=""/>
+    <img src="https://github.com/CrispenGari/Keras-API/blob/main/01_Loses/03_Huber/formula_to_calculate_huber_loss.png"/>
 </p>

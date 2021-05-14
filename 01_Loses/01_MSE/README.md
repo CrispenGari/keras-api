@@ -4,6 +4,6 @@ In statistics, the mean squared error or mean squared deviation of an estimator 
 #### Formular
 
 <p align="center">
-    <img src="" alt=""/>
+    <img src="https://github.com/CrispenGari/Keras-API/blob/main/01_Loses/01_MSE/mean_squared_error.svg" alt=""/>
 </p>
 

@@ -4,6 +4,6 @@ In statistics, mean absolute error (MAE) is a measure of errors between paired o
 #### Formular
 
 <p align="center">
-    <img src="https://github.com/CrispenGari/Keras-API/blob/main/01_Loses/01_MSE/mean_squared_error.svg" alt=""/>
+    <img src="https://github.com/CrispenGari/Keras-API/blob/main/01_Loses/02_MAE/MAE.png" alt=""/>
 </p>
 

@@ -7,10 +7,10 @@ A callback is an object that can perform actions at various stages of training (
 
 You can use callbacks to:
 
-Write TensorBoard logs after every batch of training to monitor your metrics
-Periodically save your model to disk
-Do early stopping
-Get a view on internal states and statistics of a model during training
-...and more
+* Write TensorBoard logs after every batch of training to monitor your metrics
+* Periodically save your model to disk
+* Do early stopping
+* Get a view on internal states and statistics of a model during training
+* ...and more
 
 [Docs](https://keras.io/api/callbacks/)

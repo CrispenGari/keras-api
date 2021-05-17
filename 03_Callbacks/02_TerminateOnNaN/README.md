@@ -22,7 +22,6 @@ model.compile(
 )
 
 """
-This is the leaning rate Scheduler that will update the learning rate every epoch
 """
 NA_CALLBACK = keras.callbacks.TerminateOnNaN()
 

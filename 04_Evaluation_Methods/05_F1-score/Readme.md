@@ -7,5 +7,5 @@ sklearn.metrics.f1_score()
 ```
 
 <p align='center'>
-    <img src='https://github.com/CrispenGari/Keras-API/blob/main/04_Evaluation_Methods/01_Accuracy/1_sVuthxNoz09nzzJTDN1rww.png' />
+    <img src='https://github.com/CrispenGari/Keras-API/blob/main/04_Evaluation_Methods/05_F1-score/F1-Score.png' />
 </p>

@@ -2,7 +2,7 @@
 A callback is an object that can perform actions at various stages of training (e.g. at the start or end of an epoch, before or after a single batch, etc).
 
 <p align='center'>
-    <img src='https://github.com/CrispenGari/Keras-API/blob/main/03_Callbacks/1_HGLg5iakV401GDidgzP4YQ.jpeg' />
+    <img src='https://github.com/CrispenGari/Keras-API/blob/main/03_Callbacks/1_HGLg5iakV401GDidgzP4YQ.jpeg' width="200px" />
 </p>
 
 You can use callbacks to:

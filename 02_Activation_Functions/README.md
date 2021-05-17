@@ -5,6 +5,14 @@
     <img src='https://github.com/CrispenGari/Keras-API/blob/main/02_Activation_Functions/activation-functions3.jpg'/>
 </p>
 
+> There are a lot of [Activation functions in TensorFlow/Keras](https://www.tensorflow.org/api_docs/python/tf/keras/activations/) which are:
+* Sigmoid
+* ReLU
+* Softmax
+* Linear
+* Tanh
+* [More](https://www.tensorflow.org/api_docs/python/tf/keras/activations/)
+
 ### Classification Problem
 A classification problem is a problem where we are trying to predict something's class. There are three types of classifications  which are:
 
@@ -26,5 +34,7 @@ A classification problem is a problem where we are trying to predict something's
     * **SparseCategoricalCrossentropy** - when the target output label is an ``integer``
     
 * **Optimizers** -> ``Adam``, `Sigmoid`, **etc**
+
+
 
 

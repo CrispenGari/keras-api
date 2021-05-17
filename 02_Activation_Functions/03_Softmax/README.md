@@ -10,7 +10,7 @@
 #### Formular
 
 <p align="center">
-    <img src="https://github.com/CrispenGari/Keras-API/blob/main/02_Activation_Functions/02_Sigmoid/sigmoid-equation.png"/>
+    <img src="https://github.com/CrispenGari/Keras-API/blob/main/02_Activation_Functions/03_Softmax/1_ui7n5s48-qNF7BBGfDPioQ.png"/>
 </p>
 
 

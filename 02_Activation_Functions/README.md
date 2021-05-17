@@ -2,7 +2,7 @@
 -In artificial neural networks, the activation function of a node defines the output of that node given an input or set of inputs. A standard integrated circuit can be seen as a digital network of activation functions that can be "ON" or "OFF", depending on input. 
 
 <p align='center'>
-    <img src=''/>
+    <img src='https://github.com/CrispenGari/Keras-API/blob/main/02_Activation_Functions/activation-functions3.jpg'/>
 </p>
 
 ### Classification Problem

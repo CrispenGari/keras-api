@@ -6,6 +6,6 @@
 #### Formular
 
 <p align="center">
-    <img src=""/>
+    <img src="https://github.com/CrispenGari/Keras-API/blob/main/02_Activation_Functions/01_ReLU/1_ZD5kma5J-6UabfEwERv_dQ.png"/>
 </p>
 

@@ -7,4 +7,4 @@ sklearn.metrics.precision_score()
 tf.keras.metrics.Precision()
 ```
 <p align="center">
-    <img src=""/></p>
+    <img src="https://github.com/CrispenGari/Keras-API/blob/main/04_Evaluation_Methods/02_Precision/Precision_1.png"/></p>

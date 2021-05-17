@@ -8,4 +8,4 @@ sklearn.metrics.recall_score()
 tf.keras.metrics.Recall()
 ```
 <p align="center">
-    <img src="https://github.com/CrispenGari/Keras-API/blob/main/04_Evaluation_Methods/02_Precision/Precision_1.png"/></p>
+    <img src="https://github.com/CrispenGari/Keras-API/blob/main/04_Evaluation_Methods/03_Recall/Recall_1.png"/></p>

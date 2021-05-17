@@ -1,10 +1,9 @@
-### Accuracy
-
-> It measures a fraction of total correct predictions, to total predictions made.
+### F1-score
+* The highest possible value of an F-score is 1.0, indicating perfect precision and recall, and the lowest possible value is 0, if either the precision or the recall is zero.
+> Combines precision and recall into one metric. 1 is best, 0 is worst.
 
 ```
-sklearn.metrics.accuracy_score()
-tf.keras.metrics.Accuracy()
+sklearn.metrics.f1_score()
 ```
 
 <p align='center'>

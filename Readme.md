@@ -25,3 +25,5 @@ Learning the ``math`` behind Keras and TensorFlow.
 8. [Numpy](https://numpy.org/)
 
 9. [Tensorflow Play Ground](https://playground.tensorflow.org/)
+
+10. [Karpathy AI recipe](http://karpathy.github.io/2019/04/25/recipe/)

@@ -1,5 +1,6 @@
 ### Classfication report
 * A Classification report is used to measure the quality of predictions from a classification algorithm. ... The report shows the main classification metrics precision, recall and f1-score on a per-class basis. The metrics are calculated by using true and false positives, true and false negatives.
+> Collection of some of the main classification metrics such as precision, recall and f1-score.
 
 ```
 sklearn.metrics.classification_report()
